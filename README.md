@@ -9,7 +9,7 @@
 <p>Each branch created its own commits, after which branches №2 and №3 were merged with branch №1. At the same time, branch №3 was pushed to a remote repository and there I used a pull request, after which branch №3 was merged with branch №1. After that, master branch has been pulled into the local repository.</p>
 
 
-<h3></h3>
+<h3>I used the following commands</h3>
 <p>1.git merge new_branch</p>
 <p>2.git checkout -b new_branch</p>
 <p>3.git brabnch -f branch HEAD~2 (test)</p>
