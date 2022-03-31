@@ -1,8 +1,9 @@
 ![image](https://user-images.githubusercontent.com/85056996/161123879-ea6622dd-8328-4626-9b9a-dd04ed95ffaf.png)
 
 <h2>More datails</h2>
-3 branches were created:
-<p>1. master (default)</p>
+
+<h3>3 branches were created:</h3>  
+<p>1. master (default)</p>  
 <p>2. new_branch</p>
 <p>3. third_branch</p>
 
@@ -16,3 +17,5 @@
 <p>1.git log</p>
 <p>1.git push -f origin master (git push)</p>
 <p>etc.</p>
+
+![1](https://user-images.githubusercontent.com/85056996/161132968-94b4bcae-55fe-4c36-80b8-49ca8895de62.jpg)
