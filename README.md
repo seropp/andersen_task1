@@ -1,5 +1,3 @@
-Work with Git. I added 2 packages to the main branch of the project (domain and presentation). After that, I created a new branch with the new packages and merged the current branch into the master branch and pushed it to the server.
-
 ![image](https://user-images.githubusercontent.com/85056996/161123879-ea6622dd-8328-4626-9b9a-dd04ed95ffaf.png)
 
 <h2>More datails</h2>
