@@ -14,8 +14,10 @@
 <p>1.git merge new_branch</p>
 <p>2.git checkout -b new_branch</p>
 <p>3.git brabnch -f branch HEAD~2 (test)</p>
-<p>1.git log</p>
-<p>1.git push -f origin master (git push)</p>
+<p>4.git log</p>
+<p>5.git push origin master</p>
+<p>6.git init</p>
+<p>7.git push -f origin master (test)(its bad)</p>
 <p>etc.</p>
 
 ![1](https://user-images.githubusercontent.com/85056996/161132968-94b4bcae-55fe-4c36-80b8-49ca8895de62.jpg)
